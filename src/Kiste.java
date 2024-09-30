@@ -51,7 +51,7 @@ public abstract class Kiste {
 
 
     public void anzeigen() {
-        System.out.println("Holzkiste{" +
+        System.out.println("Kiste{" +
                 "id='" + id + '\'' +
                 '}');
     }
